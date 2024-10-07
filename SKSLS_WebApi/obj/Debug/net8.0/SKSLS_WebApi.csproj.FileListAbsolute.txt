@@ -1,7 +1,0 @@
-D:\Git-Hub-Project\SKSLS\SKSLS_WebApi\SKSLS_WebApi\obj\Debug\net8.0\SKSLS_WebApi.csproj.AssemblyReference.cache
-D:\Git-Hub-Project\SKSLS\SKSLS_WebApi\SKSLS_WebApi\obj\Debug\net8.0\SKSLS_WebApi.GeneratedMSBuildEditorConfig.editorconfig
-D:\Git-Hub-Project\SKSLS\SKSLS_WebApi\SKSLS_WebApi\obj\Debug\net8.0\SKSLS_WebApi.AssemblyInfoInputs.cache
-D:\Git-Hub-Project\SKSLS\SKSLS_WebApi\SKSLS_WebApi\obj\Debug\net8.0\SKSLS_WebApi.AssemblyInfo.cs
-D:\Git-Hub-Project\SKSLS\SKSLS_WebApi\SKSLS_WebApi\obj\Debug\net8.0\SKSLS_WebApi.csproj.CoreCompileInputs.cache
-D:\Git-Hub-Project\SKSLS\SKSLS_WebApi\SKSLS_WebApi\obj\Debug\net8.0\SKSLS_WebApi.MvcApplicationPartsAssemblyInfo.cs
-D:\Git-Hub-Project\SKSLS\SKSLS_WebApi\SKSLS_WebApi\obj\Debug\net8.0\SKSLS_WebApi.MvcApplicationPartsAssemblyInfo.cache
