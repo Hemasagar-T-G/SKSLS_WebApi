@@ -1,5 +1,6 @@
 ﻿using MongoDB.Bson;
 using MongoDB.Bson.Serialization.Attributes;
+using SKSLS_WebApi.Utilities.Enums;
 using System;
 
 namespace SKSLS_WebApi.Model
