@@ -1,0 +1,12 @@
+.vs
+
+# Ignore the obj folder
+obj/
+
+# Ignore other files and folders
+bin/
+*.user
+*.suo
+*.obj
+
+*.cache
